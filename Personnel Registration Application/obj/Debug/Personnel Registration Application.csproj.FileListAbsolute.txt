@@ -1,0 +1,13 @@
+C:\Users\serca\source\repos\Personnel Registration Application\Personnel Registration Application\bin\Debug\Personnel Registration Application.exe.config
+C:\Users\serca\source\repos\Personnel Registration Application\Personnel Registration Application\bin\Debug\Personnel Registration Application.exe
+C:\Users\serca\source\repos\Personnel Registration Application\Personnel Registration Application\bin\Debug\Personnel Registration Application.pdb
+C:\Users\serca\source\repos\Personnel Registration Application\Personnel Registration Application\obj\Debug\Personnel Registration Application.csproj.AssemblyReference.cache
+C:\Users\serca\source\repos\Personnel Registration Application\Personnel Registration Application\obj\Debug\Personnel_Registration_Application.Form1.resources
+C:\Users\serca\source\repos\Personnel Registration Application\Personnel Registration Application\obj\Debug\Personnel_Registration_Application.Properties.Resources.resources
+C:\Users\serca\source\repos\Personnel Registration Application\Personnel Registration Application\obj\Debug\Personnel Registration Application.csproj.GenerateResource.cache
+C:\Users\serca\source\repos\Personnel Registration Application\Personnel Registration Application\obj\Debug\Personnel Registration Application.csproj.CoreCompileInputs.cache
+C:\Users\serca\source\repos\Personnel Registration Application\Personnel Registration Application\obj\Debug\Personnel Registration Application.exe
+C:\Users\serca\source\repos\Personnel Registration Application\Personnel Registration Application\obj\Debug\Personnel Registration Application.pdb
+C:\Users\serca\source\repos\Personnel Registration Application\Personnel Registration Application\obj\Debug\Personnel_Registration_Application.FrmStatistics.resources
+C:\Users\serca\source\repos\Personnel Registration Application\Personnel Registration Application\obj\Debug\Personnel_Registration_Application.FrmChart.resources
+C:\Users\serca\source\repos\Personnel Registration Application\Personnel Registration Application\obj\Debug\Personnel_Registration_Application.FrmLogin.resources
